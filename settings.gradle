@@ -1,0 +1,2 @@
+rootProject.name='ApisNewsApp'
+include ':app'
