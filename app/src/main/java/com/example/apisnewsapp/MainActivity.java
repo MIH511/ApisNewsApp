@@ -42,7 +42,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity implements SwipeRefreshLayout.OnRefreshListener {
 
-    private static final String API_KEY="417007bdeaa5428996e4b0ae51e1407f";
+    private static final String API_KEY="";
     private RecyclerView recyclerView;
     private SwipeRefreshLayout refreshLayout;
      public ArrayList<Articles> articles=new ArrayList<>();
